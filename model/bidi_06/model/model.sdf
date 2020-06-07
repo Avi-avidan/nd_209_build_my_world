@@ -1,6 +1,6 @@
 <?xml version='1.0'?>
 <sdf version='1.6'>
-  <model name='bidi_04'>
+  <model name='model'>
     <link name='link_0'>
       <pose frame=''>0.648551 -0.695762 0.6 0 -0 0</pose>
       <inertial>
@@ -1364,7 +1364,7 @@
       </collision>
     </link>
     <link name='link_6'>
-      <pose frame=''>0.778551 -0.81 0.473 0 -0 0</pose>
+      <pose frame=''>0.77855 -0.81 0.473 0 -0 0</pose>
       <inertial>
         <mass>0.1</mass>
         <inertia>
