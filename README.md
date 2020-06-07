@@ -2,7 +2,7 @@
 
 my robot basic initial visualization could be found under model/bidi_04/
 
-![this is bidi] (/images/bidi.jpg)
+![set visual/this is bidi](/images/bidi.jpg)
 
 
 it import wheels from model/wheels - 
@@ -10,4 +10,5 @@ it import wheels from model/wheels -
 - link_6 (front right) and link_6_clone (back left): omni_wheel_2.dae
 
 visual and collision Geometry x,y, & z should be set to 0.4m.
+
 ![set visual/collision example](/images/visual_example.jpg)
